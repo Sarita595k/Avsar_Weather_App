@@ -1,6 +1,4 @@
-# 🌤️ ApsarWeather
-
-![AvsarWeather Banner](https://your-image-link-here.com/banner.png)  
+# 🌤️ AvsarWeather
 
 AvsarWeather is a **full-stack weather web application** that provides users with real-time weather updates, personalized dashboards, and the ability to save favorite cities. This project is built using **React**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB Atlas**.  
 
@@ -64,7 +62,7 @@ AvsarWeather is a **full-stack weather web application** that provides users wit
 - Weather API key for using a third-party API
 
 ### Installation
-1. Clone the repository
+1. Clone the repository :https://github.com/Sarita595k/Avsar_Weather_App.git
 2. Navigate to the project folder
 3. Install backend dependencies
 4. Install frontend dependencies
